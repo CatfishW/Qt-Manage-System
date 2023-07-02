@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>imgs/password.png</file>
+        <file>imgs/username.png</file>
+        <file>imgs/close.png</file>
+        <file>imgs/maxmize.png</file>
+        <file>imgs/minimize.png</file>
+        <file>imgs/profile_photo.png</file>
+        <file>imgs/bg.png</file>
+        <file>imgs/close_2.png</file>
+        <file>imgs/right_frame.png</file>
+        <file>imgs/bg2.png</file>
+        <file>imgs/loading.gif</file>
+        <file>imgs/main_bg.png</file>
+        <file>imgs/menu.png</file>
+        <file>imgs/query.png</file>
+        <file>imgs/file.png</file>
+        <file>imgs/delete_data.png</file>
+        <file>imgs/data_analyze.png</file>
+        <file>imgs/addinfo.png</file>
+        <file>imgs/info_confirm.png</file>
+        <file>imgs/delete_back.png</file>
+        <file>imgs/delete_confirm.png</file>
+    </qresource>
+</RCC>
